@@ -55,5 +55,3 @@ mensagem = '.....erro no relatório....'
 for x in range(1, 10+1):
     SendMail(para, f'{assunto} -> {x}', mensagem, email, pw).send_mail()
     print(f'email enviado. {x}')
-
-
