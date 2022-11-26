@@ -46,7 +46,7 @@ class SendMail:
 
 
 email = 'meuEmail@gmail.com'
-pw = 'SENHA' # senha antiga 'garzifisti@gufum.com'
+pw = 'SENHA'
 
 para = 'alguem@gmail.com'
 assunto = f'🚨 RELATÓRIO COM FALHA!! 🚨 - {datetime.date.today()} '
