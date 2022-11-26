@@ -4,7 +4,7 @@ import datetime
 from email.headerregistry import Address
 from email.message import EmailMessage
 import smtplib
-import time
+
 
 
 class SendMail:
